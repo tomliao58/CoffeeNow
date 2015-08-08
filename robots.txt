@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://www.coffeenow.com.tw/sitemap.xml
