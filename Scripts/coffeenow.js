@@ -1,10 +1,10 @@
 ﻿angular.module("CoffeNowApp", ["ngRoute", "angular-flexslider"])
     .config(function ($routeProvider, $locationProvider) {   //設定 ngRoute 
-        $locationProvider.html5Mode({
-            enabled: true,
-            //requireBase: false  
-        });
-        $routeProvider.when("/", {
+        //$locationProvider.html5Mode({
+        //    enabled: true,
+        //    requireBase: false  
+        //});
+        $routeProvider.when("#", {
             //templateUrl: "/Views/Video.html"
             templateUrl: "/Views/Home.html"
         });
