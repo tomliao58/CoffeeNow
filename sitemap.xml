@@ -4,7 +4,7 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
 
-    <loc>http://www.coffeenow.com.tw/#/</loc>
+    <loc>http://www.coffeenow.com.tw/</loc>
 
     <video:video>
       <video:content_loc>
@@ -21,18 +21,18 @@
 
   </url>
   <url>
-    <loc>http://www.coffeenow.com.tw/#/about</loc>
+    <loc>http://www.coffeenow.com.tw/about</loc>
   </url>
   <url>
-    <loc>http://www.coffeenow.com.tw/#/coffee</loc>
+    <loc>http://www.coffeenow.com.tw/coffee</loc>
   </url>
   <url>
-    <loc>http://www.coffeenow.com.tw/#/producers</loc>
+    <loc>http://www.coffeenow.com.tw/producers</loc>
   </url>
   <url>
-    <loc>http://www.coffeenow.com.tw/#/shopping</loc>
+    <loc>http://www.coffeenow.com.tw/shopping</loc>
   </url>
   <url>
-    <loc>http://www.coffeenow.com.tw/#/contact</loc>
+    <loc>http://www.coffeenow.com.tw/contact</loc>
   </url>
 </urlset>
